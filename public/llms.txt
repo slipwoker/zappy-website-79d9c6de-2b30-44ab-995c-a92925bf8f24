@@ -1,47 +1,57 @@
-# Business — Generative Engine Optimization Map
+# הורדת שירים לmp3 — Generative Engine Optimization Map
+
+> A vibrant music download platform that converts songs to MP3 format with an intelligent recommendation engine. The platform learns user preferences over time by analyzing download patterns and suggests new music tailored to each user's unique taste and style. Features a clean, user-friendly interface with a central input field for song links.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://horadat-shirim-le-mp3.zappy5.app
 פלטפורמת הורדת שירים חכמה עם מנוע המלצות אישי. המר שירים ל-MP3 באיכות גבוהה בקליק אחד וגלה מוזיקה חדשה המותאמת בדיוק לטעם שלך.
 
 ### איך זה עובד
-https://example.com/how-it-works
+https://horadat-shirim-le-mp3.zappy5.app/how-it-works
 גלה כמה פשוט להמיר שירים ל-MP3 בשלושה שלבים בלבד. הדבק קישור, המר באיכות מקסימלית והורד ישירות למכשיר. מדריך מפורט עם הסברים ברורים.
 
 ### המלצות
-https://example.com/recommendations
+https://horadat-shirim-le-mp3.zappy5.app/recommendations
 מנוע ההמלצות החכם שלנו לומד את הטעם המוזיקלי שלך ומציע שירים חדשים שתאהב. קבל המלצות מותאמות אישית על בסיס ההורדות שלך ותגלה אמנים חדשים.
 
 ### צור קשר
-https://example.com/contact
+https://horadat-shirim-le-mp3.zappy5.app/contact
 צוות התמיכה שלנו זמין לכל שאלה או בעיה טכנית. צור קשר דרך טופס פשוט ונחזור אליך במהירות. אנחנו כאן כדי להבטיח חוויית הורדה מושלמת.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://horadat-shirim-le-mp3.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://horadat-shirim-le-mp3.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://horadat-shirim-le-mp3.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About הורדת שירים לmp3
+A vibrant music download platform that converts songs to MP3 format with an intelligent recommendation engine. The platform learns user preferences over time by analyzing download patterns and suggests new music tailored to each user's unique taste and style. Features a clean, user-friendly interface with a central input field for song links.
+
+## Target Audience
+חובבי מוזיקה המעוניינים להוריד שירים
+
+## Industry
+מוזיקה ומדיה דיגיטלית
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://horadat-shirim-le-mp3.zappy5.app/sitemap.xml
+- **Robots.txt**: https://horadat-shirim-le-mp3.zappy5.app/robots.txt

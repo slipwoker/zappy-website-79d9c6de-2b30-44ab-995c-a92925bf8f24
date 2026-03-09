@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://horadat-shirim-le-mp3.zappy5.app/sitemap.xml
